@@ -20,6 +20,9 @@
  * Other stuff I've worked with:
  *    Docker, Yarn, npm, AWS, Heroku, ExpressJS, React, EJS,
  *    PostgreSQL, MongoDB, Redis, MongooseJS, Sequelize ORM, ...
+ *
+ * Things I don't like:
+ *    php.
  */
 ```
 

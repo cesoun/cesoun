@@ -4,9 +4,8 @@
 ```cpp
 /**
  * Who: Christopher Oswald
- * What: BS in Computer Programming
- * When: Fall 2021
- * Where: Phoenix, AZ + Los Angeles, CA
+ * What: BS in Software Development
+ * Where: Los Angeles, CA + Phoenix, AZ
  * Why: Coding is fun and tech is always evolving giving me new things to learn.
  *
  * I'm a big fan of web technologies and like to explore different languages and frameworks.

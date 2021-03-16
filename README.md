@@ -12,10 +12,10 @@
  * I'm a big fan of web technologies and like to explore different languages and frameworks.
  *
  * Languages I prefer:
- *    Java, JavaScript, C++
+ *    Go, Java, JavaScript, C++
  *
  * Other languages I've worked with / want to work more with:
- *    C#, Python, Go, Rust
+ *    Python, Rust, C#
  *
  * Other stuff I've worked with:
  *    Docker, Yarn, npm, AWS, Heroku, ExpressJS, React, EJS,

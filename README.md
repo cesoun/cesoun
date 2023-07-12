@@ -1,51 +1,52 @@
-🖐 😎
--
-
-```cpp
+# About me 🦑
+```go
 /**
  * Who: Christopher Oswald
  * What: BS in Software Development
- * Where: Los Angeles, CA + Phoenix, AZ
- * Why: Coding is fun and tech is always evolving giving me new things to learn.
+ * Why: Computers are really interesting and there is always something new to learn and/or break.
  *
- * I'm a big fan of web technologies and like to explore different languages and frameworks.
- *
- * Languages I prefer:
- *    Go, Java, JavaScript, C++
- *
- * Other languages I've worked with / want to work more with:
- *    Python, Rust, C#
- *
- * Other stuff I've worked with:
- *    Docker, Yarn, npm, AWS, Heroku, ExpressJS, React, EJS,
- *    PostgreSQL, MongoDB, Redis, MongooseJS, Sequelize ORM, ...
- *
- * Things I don't like:
- *    php.
+ * Summary: Focused on creating high-quality products with global impact. An open-source and dynamic
+ *  developer passionate about technology, cloud computing, collaborating with others and continuing
+ *  to learn and apply new things.
  */
 ```
 
-Contact
--
+## Languages
+I tend to pick up and put down languages and frameworks depending on what work I do with them professionally or through personal projects.
 
-[Triplebyte](https://triplebyte.com/tb/christopher-oswald-uc8izoj)
+`Preferred`
+1. Go
+2. JavaScript/TypeScript
+3. Java
 
-[LinkedIn](https://www.linkedin.com/in/christopher-oswald-611b981b8/)
+`Want to use more of`
+1. Python
+2. Rust
+3. C/C++
+4. Kotlin
+5. C#
 
-[Indeed](https://my.indeed.com/p/christophero-5dpoinc)
+## Cloud Platforms
+I have also explored quite a bit of the cloud during my professional, educational and personal expereince. My primary platforms are typically
+`AWS` and `DigitalOcean` for most of my personal projects and most my knowledge lies.
 
+I do know my way around `Azure`, `GCloud` and `Heroku`.
 
-<!--
-**cesoun/cesoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Other things
+There are quite a few other technologies, frameworks & libraries so I'll try and list them here in a *somewhat* neat fashion.
 
-Here are some ideas to get you started:
+- Angular
+- Chai, Confluence
+- Docker
+- Gradle, GraphQL
+- Jest, Jira
+- Maven, Mocha
+- NoSQL, NodeJS, npm
+- React
+- SQL
+- Terraform
+- Yarn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+
+[LinkedIn](https://www.linkedin.com/in/christopher-oswald/)

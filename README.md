@@ -27,10 +27,10 @@ I tend to pick up and put down languages and frameworks depending on what work I
 5. C#
 
 ## Cloud Platforms
-I have also explored quite a bit of the cloud during my professional, educational and personal expereince. My primary platforms are typically
-`AWS` and `DigitalOcean` for most of my personal projects and most my knowledge lies.
+I have also explored quite a bit of the cloud during my professional, educational and personal expereince. My primary platform(s) and knowledge lie with
+`AWS` and `DigitalOcean`.
 
-I do know my way around `Azure`, `GCloud` and `Heroku`.
+I do however know my way around `Azure`, `GCloud` and `Heroku`.
 
 ## Other things
 There are quite a few other technologies, frameworks & libraries so I'll try and list them here in a *somewhat* neat fashion.
